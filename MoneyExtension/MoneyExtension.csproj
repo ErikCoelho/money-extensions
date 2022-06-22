@@ -5,7 +5,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
 
-    <PackageId>MoneyExtensionsAgain</PackageId>
+    <PackageId>MoneyExtensionsCoelho019</PackageId>
     <Version>1.0.0</Version>
     <License>MIT</License>
     <Authors>André Baltieri, Erik Coelho</Authors>
@@ -16,8 +16,8 @@
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageIcon>icon.png</PackageIcon>
     <PackageTags>money;int;decimal;converter</PackageTags>
-    <Title>MoneyExtensions</Title>
-    <Summary>MoneyExtensionsAgain</Summary>
+    <Title>MoneyExtensionsCoelho019</Title>
+    <Summary>Extension to convert decimal to integer</Summary>
 
   </PropertyGroup>
 
